@@ -1,0 +1,43 @@
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.csproj.AssemblyReference.cache
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.AssemblyInfoInputs.cache
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.AssemblyInfo.cs
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.csproj.CoreCompileInputs.cache
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.exe
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.deps.json
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.runtimeconfig.json
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.dll
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.pdb
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.dll
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\refint\ActivityRecorder.dll
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.pdb
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.genruntimeconfig.cache
+C:\Users\d83838\OneDrive - BNP Paribas\Documents\Aplikacije\ActivityRecorder\obj\Debug\net7.0-windows\ref\ActivityRecorder.dll
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.AssemblyInfoInputs.cache
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.AssemblyInfo.cs
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.csproj.CoreCompileInputs.cache
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.dll
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\refint\ActivityRecorder.dll
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.pdb
+D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.exe
+D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.deps.json
+D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.runtimeconfig.json
+D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.dll
+D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.pdb
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.genruntimeconfig.cache
+D:\Projects\ActivityRecorder\obj\Debug\net7.0-windows\ref\ActivityRecorder.dll
+C:\Users\tomis\source\repos\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.exe
+C:\Users\tomis\source\repos\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.deps.json
+C:\Users\tomis\source\repos\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.runtimeconfig.json
+C:\Users\tomis\source\repos\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.dll
+C:\Users\tomis\source\repos\ActivityRecorder\bin\Debug\net7.0-windows\ActivityRecorder.pdb
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.AssemblyInfoInputs.cache
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.AssemblyInfo.cs
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.csproj.CoreCompileInputs.cache
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.dll
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\refint\ActivityRecorder.dll
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.pdb
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ActivityRecorder.genruntimeconfig.cache
+C:\Users\tomis\source\repos\ActivityRecorder\obj\Debug\net7.0-windows\ref\ActivityRecorder.dll
