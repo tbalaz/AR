@@ -1,5 +1,0 @@
-D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\publish\ActivityRecorder.exe
-D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\publish\ActivityRecorder.dll
-D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\publish\ActivityRecorder.deps.json
-D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\publish\ActivityRecorder.runtimeconfig.json
-D:\Projects\ActivityRecorder\bin\Debug\net7.0-windows\publish\ActivityRecorder.pdb
